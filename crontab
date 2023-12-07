@@ -1,0 +1,2 @@
+# Cron job running every Sunday at 9:00AM
+0 9 * * 0 /usr/bin/bash /bin/clean_tmp.sh
