@@ -1,1 +1,4 @@
-<h1>Bash Script to Delete .TMP files from /tmp/ using Cron job</h1>
+<h1>Bash Script: TMP Cleanup Tool</h1>
+
+#  Deletes .TMP files from /tmp/
+# Integrated to Crontab
