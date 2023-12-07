@@ -1,3 +1,12 @@
+#=============================================================================#
+#                         Temporary File Cleanup Tool                         #
+#                         Version 1.0 by Paula Prieto                         #
+#                                                                             #
+#  Output to new log file:                                                    #
+#  If .TMP file exists: Date & lists deleted files                            #
+#  If .TMP files do not exist: Date & no tmp files deleted                    #
+#=============================================================================#
+
 # Variable with path
 find_tmp=$(/usr/bin/find /tmp -name '*.TMP')
 
