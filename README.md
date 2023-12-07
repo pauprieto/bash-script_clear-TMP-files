@@ -4,7 +4,7 @@ Deletes .TMP files from /tmp/
 
 Integrated to Crontab
 
-Example output to log file:
+_Example output to log file:_
 
 [Thu Dec 3 09:00:00 2023] Deleted files: file1.TMP file2.TMP
 
